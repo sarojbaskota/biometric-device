@@ -1,0 +1,19 @@
+{
+    "name": "saroj/biometric_device",
+    "description": "this package help for biometric device.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Saroj\\BiometricDevice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sarojbaskota",
+            "email": "sarojbaskota379@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
